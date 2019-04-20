@@ -1,2 +1,1 @@
-# QueuingInfoSystem
-The System design of it
+The APP Code 
